@@ -1,5 +1,5 @@
 # Sephora-Product-Reviews
-# 🧠 NLP-Driven Product Insights from 160,000+ Sephora Reviews
+## 🧠 NLP-Driven Product Insights from 160,000+ Sephora Reviews
 
 Analyzed 160K+ Sephora customer reviews using NLP to extract key themes driving negative sentiment, supporting product enhancement decisions.
 
