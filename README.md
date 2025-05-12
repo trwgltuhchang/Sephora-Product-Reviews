@@ -2,6 +2,7 @@
 ## 🧠 NLP-Driven Product Insights from 160,000+ Sephora Reviews
 
 Analyzed 160K+ Sephora customer reviews using NLP to extract key themes driving negative sentiment, supporting product enhancement decisions.
+* Data source: [Sephora Products and Skincare Reviews] (https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews)
 
 ## 📌 Highlights
 - Built and deployed an end-to-end NLP pipeline (BERTopic + LDA) for topic modeling of low-rated product reviews.
