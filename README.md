@@ -10,7 +10,7 @@ Analyzed 160K+ Sephora customer reviews using NLP to extract key themes driving 
 - Developed an interactive Streamlit dashboard hosted on **AWS EC2** for stakeholder exploration of sentiment clusters and product categories.
 
 ## 🔧 Tools & Stack
-- Python, Pandas, Numpy
+- Python (Pandas, Numpy)
 - NLP: BERTopic, LDA, NLTK
 - Deployment: Streamlit, AWS EC2
 - Visualization: Matplotlib, Seaborn
